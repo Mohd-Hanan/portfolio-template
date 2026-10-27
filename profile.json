@@ -1,19 +1,20 @@
 {
-    "name": "Your Name",
-    "tagline": "Your one-line introduction",
-    "bio": "Write 2 or 3 sentences about yourself.",
-    "skills": [
-        "Git",
-        "HTML"
+    "name": "Muhammed Hanan P P",
+    "tagline": "Still learning, still building, still breaking things",
+    "bio": "Third-year B.Tech CSE (AI) student at TKMCE,Kollam. Curious about newer technology and advancements in AI and ML. I learn best by building things and breaking them.",
+    "skills": [ "C",
+        "Java",
+        "Python",
+        "Git"
     ],
     "projects": [
         {
-            "title": "My first project",
-            "desc": "What it does.",
-            "link": "https://github.com/yourname"
+            "title": "Wildfire Suppressing Multi Drone Agent",
+            "desc": "Multiple firefighting drones that learn to work together against a simulated wildfire, trained with reinforcement learning (PPO).",
+            "link": "https://github.com/Mohd-Hanan/Wildfire-Suppressing-Multi-Drone-Agent"
         }
     ],
     "links": {
-        "github": "https://github.com/yourname"
+        "github": "https://github.com/Mohd-Hanan"
     }
 }
